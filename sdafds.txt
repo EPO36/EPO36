@@ -1,5 +1,5 @@
 # Gaia
-01 4
+01 4 4
 
 > Decentralizing Generative AI Chatbot and Agent
 
