@@ -5,7 +5,7 @@
 
 This file contains all documentation content in a single document following the llmtxt.org standard.
 
-## Agent  zerion 12 2 4 5 6
+## Agent  zerion 12 2 4 5 6 6
 
 # Agent Zero
 agen 3
