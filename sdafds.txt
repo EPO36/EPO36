@@ -4,8 +4,8 @@
 > Decentralizing Generative AI Chatbot and Agent
 
 This file contains all documentation content in a single document following the llmtxt.org standard.
-
-## Agent  zerion 12 2 4 5 6 6 5 2 4 7 5 2
+ 
+## Agent  zerion 12 2 4 5 6 6 5 2 4 7 5 2 1
 
 # Agent Zero
 agen 3
