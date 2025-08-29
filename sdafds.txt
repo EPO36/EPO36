@@ -251,7 +251,7 @@ It asks the Continue plugin to use different public Gaia nodes and models for
 chat, code autocomplete and embeddings.
 
 ```
-{
+{ 1
   "models": [
     {
       "model": "llama",
