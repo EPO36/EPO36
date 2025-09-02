@@ -345,7 +345,7 @@ You can use
 ## Video Guide
 
 ---
-1 2 3
+1 2 3 4
 ## Dify + Gaia
 
 # Dify + Gaia
