@@ -6,7 +6,7 @@
 This file contains all documentation content in a single document following the llmtxt.org standard.
  
 ## Agent  zerion 12 2 4 5 6 6 5 2 4 7 5 2 1 2 4 2 8 7 1 2 1 3 2 1 7 6 3 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 v c b n h
-v f t r r t e e e o r d q 2 2 d x d 3 d s w s g d e  e c t t y d t w y e r
+v f t r r t e e e o r d q 2 2 d x d 3 d s w s g d e  e c t t y d t w y e r t
 
 
 # Agent Zero
